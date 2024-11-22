@@ -1,0 +1,49 @@
+{
+  "trainings": [
+    {
+      "id": 2,
+      "name": "Javascript",
+      "description": "Formation JavaScript 4 jours",
+      "price": 1000,
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "name": "Python",
+      "description": "Formation Python/Django 10 jours",
+      "price": 2000,
+      "quantity": 1
+    },
+    {
+      "id": 4,
+      "name": "Angular",
+      "description": "Formation Angular 5 jours",
+      "price": 5000,
+      "quantity": 1
+    },
+    {
+      "id": 5,
+      "name": "Kotlin",
+      "description": "Formation Kotlin 10 jours",
+      "price": 8500,
+      "quantity": 1
+    }
+  ],
+  "users": [
+    {
+      "email": "elbab@gmail.com",
+      "password": "$2a$10$McACabRuqW1MvSQuayp/0u3PYVvaYmOqJq3cfMvY6zCrpFOGcPd6e",
+      "roles": [
+        "ADMIN",
+        "USER"
+      ]
+    },
+    {
+      "email": "hugo@gmail.com",
+      "password": "$2a$10$McACabRuqW1MvSQuayp/0u3PYVvaYmOqJq3cfMvY6zCrpFOGcPd6e",
+      "roles": [
+        "USER"
+      ]
+    }
+  ]
+}
